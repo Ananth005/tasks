@@ -1,0 +1,18 @@
+body {
+    background: #f5f6f7;
+    color: #F5F6F7;
+    font-family: Helvetica;
+    letter-spacing:30px;
+    font-weight: 900;
+    margin:auto;
+    padding: 30px 30px;
+    text-align:center;
+  }
+  .container{background: #0a0808;
+  padding-top:100px;
+  padding-bottom:70px;}
+  .box{background-color:#0ec291;
+  width:300px;
+  height:35px;
+  margin:auto;;
+  }
