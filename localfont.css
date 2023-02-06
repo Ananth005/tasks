@@ -1,0 +1,27 @@
+body{
+    background: black;
+}
+h1{
+    color: red;
+    font-family: 'Courier New';
+}
+h2{
+    color: salmon;
+    font-family: 'Franklin Gothic Medium';
+}
+h3{
+    color: silver;
+    font-family: 'Times New Roman';
+}
+h4{
+    color: springgreen;
+    font-family: inherit;
+}
+h5{
+    color: orangered;
+    font-family:cursive;
+}
+h6{
+    color: turquoise;
+    font-family:Georgia;
+}
